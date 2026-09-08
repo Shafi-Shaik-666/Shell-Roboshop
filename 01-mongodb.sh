@@ -9,7 +9,7 @@ LOGS_FILE="$LOGS_DIR/$0.log"
 USERID=$(id -u)
 R="\e[31m"
 G="\e[32m"
-Y="\e[33m"
+#Y="\e[33m"
 N="\e[0m"
 TIMESTAMP=$(date "+%Y-%m-%d %H:%M:%S")
 
